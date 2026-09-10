@@ -65,8 +65,12 @@ Telecommunications and Network Engineer focused on data analysis and building my
 
 #### 🌐 Networking & Electronics
 
-![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square\&logo=cisco\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+#### 📝 Documentation & Technical Writing
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
